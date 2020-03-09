@@ -1,1 +1,1 @@
-This is a sentance
+This line will be squashed
